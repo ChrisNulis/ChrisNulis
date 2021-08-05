@@ -11,7 +11,7 @@
 
 - 🥅 2021 Goals: **To get a Software Engineer/Developer job!**
 
-- 👨‍💻 Check my portfolio: Here[website]
+- 👨‍💻 Check on my **[portfolio]**
 
 - 💬 Ask me about **React, JavaScript, Python, Django**
 
@@ -46,4 +46,4 @@
 <p align="left"> <a href="https://twitter.com/chrisnulis" target="blank"><img src="https://img.shields.io/twitter/follow/chrisnulis?logo=twitter&style=for-the-badge" alt="chrisnulis" /></a> </p>
 
 
-[website]: https://chrisnugroho.netlify.app
+[portfolio]: https://chrisnugroho.netlify.app
