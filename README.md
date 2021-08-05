@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris aka **[ChrisNuLis]** **[website]**(https://chrisnugroho.netlify.app)</h1>
+<h1 align="center">Hi 👋, I'm Chris </h1>
 <h3 align="center">I'm a Husband, A Golden Retriever Dad, Engineer, Developer, Tech Enthusiast, and a Gamer!!</h3>
 
 - 🔭 I’m currently working on **Getting a Job!**
@@ -9,13 +9,11 @@
 
 - 🥅 2021 Goals: **To get a Software Engineer/Developer job!**
 
-- 👨‍💻 Check my portfolio **[HERE]**(https://chrisnugroho.netlify.app)
+- 👨‍💻 Check my portfolio: https://chrisnugroho.netlify.app
 
 - 💬 Ask me about **React, JavaScript, Python, Django**
 
-- 📫 My E-mail: **[HERE]**(mailto:Chrisnulis@gmail.com)
-
-- 📄 Please take a look at my resume **[HERE]**(https://docs.google.com/document/d/1kkqrrr2w7qs3bc_99IM0OliOFN7KaPlE/edit?usp=sharing&ouid=117582958796216161566&rtpof=true&sd=true)
+- 📫 My E-mail: Chrisnulis@gmail.com
 
 - ⚡ Fun fact **I love to build**
 
