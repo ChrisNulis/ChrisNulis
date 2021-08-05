@@ -6,7 +6,7 @@
 <h3 align="center">Code, Break, Cry, Fix, Sleep, Repeat</h3>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ChrisNuLis/ChrisNuLis/blob/main/assets/Frustrated.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ChrisNulis/ChrisNulis/blob/main/assets/Frustrated.gif">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisnulis&label=Profile%20views&color=0e75b6&style=flat" alt="chrisnulis" /> </p>
