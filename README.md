@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chris </h1>
+<h1 align="center">Hello there! 👋, I'm Chris Nugroho!</h1>
 <h2 align="center">I'm a Husband, A Golden Retriever Dad, Engineer, Developer, Tech Enthusiast, and a Gamer!!</h2>
-<h3 align="center">Code Break Cry Fix Sleep Repeat</h3>
-
 ![Coding](https://i.imgur.com/Us3WP0o.jpg)
+<h3 align="center">Code, Break, Cry, Fix, Sleep, Repeat</h3>
+![Frustrated](https://i.imgur.com/XlEy8V6.gifv)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisnulis&label=Profile%20views&color=0e75b6&style=flat" alt="chrisnulis" /> </p>
 
