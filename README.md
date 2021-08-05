@@ -17,6 +17,8 @@
 
 - 📫 Contact me through my **[email]**
 
+- 📄 Take a look on my **[resume]**
+
 - ⚡ Fun fact **I love to build**
 
 <h3 align="left">Connect with me:</h3>
@@ -48,3 +50,4 @@
 
 [portfolio]: https://chrisnugroho.netlify.app
 [email]: mailto:Chrisnulis@gmail.com
+[resume]: https://docs.google.com/document/d/1kkqrrr2w7qs3bc_99IM0OliOFN7KaPlE/edit?usp=sharing&ouid=117582958796216161566&rtpof=true&sd=true
