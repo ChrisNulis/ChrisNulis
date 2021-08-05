@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript, Python, Django**
 
-- 📫 My E-mail: Chrisnulis@gmail.com
+- 📫 Contact me through my **[email]**
 
 - ⚡ Fun fact **I love to build**
 
@@ -47,3 +47,4 @@
 
 
 [portfolio]: https://chrisnugroho.netlify.app
+[email]: mailto:Chrisnulis@gmail.com
