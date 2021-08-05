@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm Chris - aka [ChrisNuLis][website]</h1>
+<h1 align="center">Hi 👋, I'm Chris aka **[ChrisNuLis]** **[website]**(https://chrisnugroho.netlify.app)</h1>
 <h3 align="center">I'm a Husband, A Golden Retriever Dad, Engineer, Developer, Tech Enthusiast, and a Gamer!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisnulis&label=Profile%20views&color=0e75b6&style=flat" alt="chrisnulis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisnulis" alt="chrisnulis" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chrisnulis" target="blank"><img src="https://img.shields.io/twitter/follow/chrisnulis?logo=twitter&style=for-the-badge" alt="chrisnulis" /></a> </p>
-
-- 🔭 I’m currently working on **looking for job**
+- 🔭 I’m currently working on **Getting a Job!**
 
 - 🌱 I’m currently learning **Java, Bootspring**
 
 - 🤝 I’m looking for help with **finding a job**
 
-- 👨‍💻 All of my projects are available at [https://chrisnugroho.netlify.app](https://chrisnugroho.netlify.app)
+- 🥅 2021 Goals: **To get a Software Engineer/Developer job!**
+
+- 👨‍💻 Check my portfolio **[HERE]**(https://chrisnugroho.netlify.app)
 
 - 💬 Ask me about **React, JavaScript, Python, Django**
 
-- 📫 How to reach me **Chrisnulis@gmail.com**
+- 📫 My E-mail: **[HERE]**(mailto:Chrisnulis@gmail.com)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kkqrrr2w7qs3bc_99IM0OliOFN7KaPlE/edit?usp=sharing&ouid=117582958796216161566&rtpof=true&sd=true](https://docs.google.com/document/d/1kkqrrr2w7qs3bc_99IM0OliOFN7KaPlE/edit?usp=sharing&ouid=117582958796216161566&rtpof=true&sd=true)
+- 📄 Please take a look at my resume **[HERE]**(https://docs.google.com/document/d/1kkqrrr2w7qs3bc_99IM0OliOFN7KaPlE/edit?usp=sharing&ouid=117582958796216161566&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love to build**
 
@@ -44,7 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnulis&show_icons=true&locale=en" alt="chrisnulis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisnulis&" alt="chrisnulis" /></p>
-
-[website]: https://chrisnugroho.netlify.app
-[instagram]: https://instagram.com/ChrisNuLis
-[linkedin]: https://www.linkedin.com/in/christophernugroho/
