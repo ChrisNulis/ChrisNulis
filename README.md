@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris </h1>
 <h3 align="center">I'm a Husband, A Golden Retriever Dad, Engineer, Developer, Tech Enthusiast, and a Gamer!!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisnulis&label=Profile%20views&color=0e75b6&style=flat" alt="chrisnulis" /> </p>
+
 - 🔭 I’m currently working on **Getting a Job!**
 
 - 🌱 I’m currently learning **Java, Bootspring**
@@ -38,3 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnulis&show_icons=true&locale=en" alt="chrisnulis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisnulis&" alt="chrisnulis" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisnulis" alt="chrisnulis" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/chrisnulis" target="blank"><img src="https://img.shields.io/twitter/follow/chrisnulis?logo=twitter&style=for-the-badge" alt="chrisnulis" /></a> </p>
