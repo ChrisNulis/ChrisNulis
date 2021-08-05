@@ -11,7 +11,7 @@
 
 - 🥅 2021 Goals: **To get a Software Engineer/Developer job!**
 
-- 👨‍💻 Check my portfolio: **Here**[website]
+- 👨‍💻 Check my portfolio: Here[website]
 
 - 💬 Ask me about **React, JavaScript, Python, Django**
 
