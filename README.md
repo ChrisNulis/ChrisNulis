@@ -42,6 +42,12 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ChrisNuLis' GitHub Stats" src="https://github-readme-stats-chrisnulis.vercel.app/api?username=ChrisNuLis&show_icons=true&hide_border=true" />
+
+</details>
 ---
 
 
