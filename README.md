@@ -5,10 +5,10 @@
 
 ![Coding](https://i.imgur.com/Us3WP0o.jpg)
 
-<h3 align="right">Code, Break, Cry, Fix, Sleep, Repeat</h3>
+<h3 align="center">Code, Break, Cry, Fix, Sleep, Repeat</h3>
 
-<div align="left">
-<img hight="320" width="400" alt="GIF" src="https://github.com/ChrisNulis/ChrisNulis/blob/main/assets/Frustrated.gif">
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ChrisNulis/ChrisNulis/blob/main/assets/Frustrated.gif">
 </div>
 
 - 🔭 I’m currently working on **Getting a Job!**
