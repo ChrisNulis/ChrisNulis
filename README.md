@@ -7,8 +7,8 @@
 
 <h3 align="center">Code, Break, Cry, Fix, Sleep, Repeat</h3>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ChrisNulis/ChrisNulis/blob/main/assets/Frustrated.gif">
+<div align="right">
+<img hight="320" width="500" alt="GIF" align="center" src="https://github.com/ChrisNulis/ChrisNulis/blob/main/assets/Frustrated.gif">
 </div>
 
 - 🔭 I’m currently working on **Getting a Job!**
