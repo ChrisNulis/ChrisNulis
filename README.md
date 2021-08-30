@@ -10,11 +10,11 @@
 
 ![Coding](https://i.imgur.com/Us3WP0o.jpg)
 
-<h3 align="center">Code, Break, Cry, Fix, Sleep, Repeat</h3>
+<!-- <h3 align="center">Code, Break, Cry, Fix, Sleep, Repeat</h3>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ChrisNulis/ChrisNulis/blob/main/assets/Frustrated.gif">
-</div>
+</div> -->
 
 - 🔭 I’m currently working on **Getting a Job!**
 
@@ -81,16 +81,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chrisnulis" height="30" width="40" /></a>
-<a href="https://twitter.com/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrisnulis" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chrisnulis" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrisnulis" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/christophernugroho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christophernugroho" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chrisnulis" height="30" width="40" /></a>
-<a href="https://fb.com/christopher.nugroho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christopher.nugroho" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chrisnulis" height="30" width="40" /></a> -->
+<!-- <a href="https://fb.com/christopher.nugroho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christopher.nugroho" height="30" width="40" /></a>
 <a href="https://instagram.com/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrisnulis" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chrisnulis" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chrisnulis" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chrisnulis" height="30" width="40" /></a>
-</p>
+<a href="https://www.hackerrank.com/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chrisnulis" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/chrisnulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-wars.svg" alt="chrisnulis" height="30" width="40" /></a>
+</p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisnulis&show_icons=true&locale=en&layout=compact" alt="chrisnulis" /></p>
 
